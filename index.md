@@ -26,7 +26,7 @@ def greet(name):
     return f"Hello, {name}!"
 ```
 
-Check out a project I'm building: [Series](https://series.so)
+Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-marriott-3bbb72277/)
 
 [Jump to Photos](#photos)
 
