@@ -6,6 +6,7 @@
   - [About Me](#about-me)
   - [As a Programmer](#as-a-programmer)
   - [Outside of Code](#outside-of-code)
+  - [Goals](#goals)
   - [Photos](#photos)
 
 ---
@@ -45,6 +46,11 @@ Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-marriott-3bbb
 1. CSE 110
 2. CSE 150B
 3. CSE 132A
+
+## Goals
+- [x] Learn to Code
+- [x] Learn Markdown
+- [ ] Get Better at AI
 
 ---
 
